@@ -3,91 +3,184 @@
   "days_window": 3,
   "posts": [
     {
-      "title": "Entering NoMan\u2019s Land",
-      "author": "adrian cockcroft",
-      "link": "https://adrianco.medium.com/entering-nomans-land-4095c21d9765",
-      "pub_date": "2026-04-09T19:44:27+00:00",
-      "claps": 20,
+      "title": "I Compared 6 Python AI Agent Frameworks So You Don\u2019t Have To: LangGraph vs CrewAI vs PydanticAI vs OpenAI SDK vs Smolagents vs Google ADK",
+      "author": "The Dev Loop",
+      "link": "https://pub.towardsai.net/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262",
+      "pub_date": "2026-04-09T21:01:01+00:00",
+      "claps": 26,
       "responses": 0,
-      "reading_time": "2 min read",
-      "tags": [
-        "startup",
-        "artificial-intelligence",
-        "systems-thinking",
-        "programming"
-      ],
-      "feed_count": 2,
-      "preview": "Continue reading on Medium \u00bb"
-    },
-    {
-      "title": "Knowledge graphs in RAG: the missing piece your AI can\u2019t find alone",
-      "author": "Prakash Sharma",
-      "link": "https://trricho.medium.com/knowledge-graphs-in-rag-the-missing-piece-your-ai-cant-find-alone-62f8b7a2b402",
-      "pub_date": "2026-04-09T19:36:36+00:00",
-      "claps": 20,
-      "responses": 0,
-      "reading_time": "8 min read",
+      "reading_time": "12 min read",
       "tags": [
         "ai-agent",
         "artificial-intelligence",
-        "genai",
-        "software-development",
-        "ai"
-      ],
-      "feed_count": 2,
-      "preview": "You built a RAG system. It retrieves documents, feeds them to an LLM, and answers questions. It mostly works.Continue reading on Medium \u00bb"
-    },
-    {
-      "title": "Fine-Tuning Isn\u2019t Always the Answer: A Practical Take on Improving LLMs",
-      "author": "PrajaktaPatil",
-      "link": "https://medium.com/@prajaktapatil328/fine-tuning-isnt-always-the-answer-a-practical-take-on-improving-llms-1181318abbf4",
-      "pub_date": "2026-04-09T19:39:03+00:00",
-      "claps": 0,
-      "responses": 0,
-      "reading_time": "3 min read",
-      "tags": [
-        "llm",
-        "fine-tuning",
-        "prompt-engineering",
-        "artificial-intelligence"
-      ],
-      "feed_count": 3,
-      "preview": "If you\u2019ve worked with Large Language Models (LLMs), you\u2019ve probably had this thought:Continue reading on Medium \u00bb"
-    },
-    {
-      "title": "Managing High-Speed AI Workloads Without Breaking Your Architecture",
-      "author": "George Witt",
-      "link": "https://medium.com/codetodeploy/managing-high-speed-ai-workloads-without-breaking-your-architecture-48f7ff90c1ea",
-      "pub_date": "2026-04-09T19:46:57+00:00",
-      "claps": 0,
-      "responses": 0,
-      "reading_time": "3 min read",
-      "tags": [
-        "software-development",
-        "artificial-intelligence",
         "ai",
-        "software-engineering",
-        "llm"
+        "python",
+        "machine-learning"
       ],
       "feed_count": 2,
-      "preview": "Architecting for Low Latency, Real-Time Inference, and Sustainable AI Integration in a Post-LLM WorldContinue reading on CodeToDeploy \u00bb"
+      "preview": "I built the same research agent six times. Only two of these frameworks survived my weekend.Continue reading on Towards AI \u00bb"
     },
     {
-      "title": "Securing Intent : The Next Frontier in AI Agent Protection",
-      "author": "Justin Albrethsen",
-      "link": "https://medium.com/highflame/securing-intent-the-next-frontier-in-ai-agent-protection-00106ce53c88",
-      "pub_date": "2026-04-09T19:45:13+00:00",
-      "claps": 0,
+      "title": "You Don\u2019t Have an AI Learning Problem. You Have a Structure Problem.",
+      "author": "Chime Emejiwe",
+      "link": "https://medium.com/@chimeemejiwe/you-dont-have-an-ai-learning-problem-you-have-a-structure-problem-86e1287f2b8e",
+      "pub_date": "2026-04-09T21:51:57+00:00",
+      "claps": 1,
       "responses": 0,
       "reading_time": "5 min read",
       "tags": [
-        "security",
-        "llm",
-        "ai-agent",
-        "ai"
+        "technology",
+        "programming",
+        "artificial-intelligence",
+        "career-advice",
+        "python"
       ],
       "feed_count": 2,
-      "preview": "Why Agent Loops Need Stateful Protection, and How DeepContext Makes It PracticalContinue reading on Highflame \u00bb"
+      "preview": "There\u2019s a particular kind of frustration that doesn\u2019t get talked about enough in tech communities.Continue reading on Medium \u00bb"
+    },
+    {
+      "title": "Anthropic Built Something It\u2019s Afraid to Release. You Should Be Afraid Too.",
+      "author": "Mandar Karhade, MD. PhD.",
+      "link": "https://ai.gopubby.com/anthropic-built-something-its-afraid-to-release-you-should-be-afraid-too-eed484951128",
+      "pub_date": "2026-04-09T22:17:02+00:00",
+      "claps": 0,
+      "responses": 0,
+      "reading_time": "12 min read",
+      "tags": [
+        "ai-agent",
+        "claude",
+        "artificial-intelligence",
+        "llm",
+        "agentic-ai"
+      ],
+      "feed_count": 4,
+      "preview": "Project Glasswing, Claude Mythos, and the 244-page confession that the safety lab\u2019s own model is too dangerous for the worldContinue reading on AI Advances \u00bb"
+    },
+    {
+      "title": "Building Graph Based Agentic System through Example (part5): Compliance Agent for Energy",
+      "author": "Nayan Paul",
+      "link": "https://medium.com/@nayan.j.paul/building-graph-based-agentic-system-through-example-part5-compliance-agent-for-energy-29d38a1812f0",
+      "pub_date": "2026-04-09T20:35:03+00:00",
+      "claps": 0,
+      "responses": 0,
+      "reading_time": "7 min read",
+      "tags": [
+        "llm",
+        "ai-agent",
+        "openai",
+        "large-language-models",
+        "chatgpt"
+      ],
+      "feed_count": 3,
+      "preview": "In the high-stakes world of oil and gas drilling, a brilliantly engineered well that cannot get a permit is not a well that can be drilled\u2026Continue reading on Medium \u00bb"
+    },
+    {
+      "title": "On the Other Side of the Uncanny Valley",
+      "author": "Adolfo Ram\u00edrez Corona",
+      "link": "https://adolforismos.medium.com/on-the-other-side-of-the-uncanny-valley-3e8db5d8ed4b",
+      "pub_date": "2026-04-09T22:19:38+00:00",
+      "claps": 0,
+      "responses": 0,
+      "reading_time": "2 min read",
+      "tags": [
+        "ux",
+        "ai",
+        "llm",
+        "technology",
+        "chatgpt"
+      ],
+      "feed_count": 2,
+      "preview": "The concept of the uncanny valley was born from robotics and the aesthetics of androids. Masahiro Mori\u2019s idea in 1970 was simple: when\u2026Continue reading on Medium \u00bb"
+    },
+    {
+      "title": "10 Digital Shifts That Will Define Business Winners in 2026",
+      "author": "BraivIQ Digital Agency",
+      "link": "https://medium.com/@thedigitalagency.co/10-digital-shifts-that-will-define-business-winners-in-2026-475cd281b0e6",
+      "pub_date": "2026-04-09T22:16:26+00:00",
+      "claps": 0,
+      "responses": 1,
+      "reading_time": "2 min read",
+      "tags": [
+        "ai",
+        "chatgpt",
+        "automation",
+        "anthropic-claude",
+        "agentic-ai"
+      ],
+      "feed_count": 2,
+      "preview": "The gap between businesses adapting to AI and those standing still is no longer a slow drift \u2014 it\u2019s a chasm.Continue reading on Medium \u00bb"
+    },
+    {
+      "title": "AI Isn\u2019t One Thing \u2014 And The Difference Matters More Than You Think.",
+      "author": "Dilraj Singh",
+      "link": "https://medium.com/@dilrajs768/ai-isnt-one-thing-and-the-difference-matters-more-than-you-think-860c12e1e011",
+      "pub_date": "2026-04-09T22:14:38+00:00",
+      "claps": 0,
+      "responses": 0,
+      "reading_time": "6 min read",
+      "tags": [
+        "business",
+        "self-improvement",
+        "artificial-intelligence",
+        "programming",
+        "technology"
+      ],
+      "feed_count": 2,
+      "preview": "Generative AI writes persuasively because it\u2019s a prediction engine. It hallucinates for the same reason.Continue reading on Medium \u00bb"
+    },
+    {
+      "title": "From Data Pipelines to Decision Engines",
+      "author": "R. Thompson (PhD)",
+      "link": "https://medium.com/write-a-catalyst/from-data-pipelines-to-decision-engines-3ffafd45db4d",
+      "pub_date": "2026-04-09T22:05:04+00:00",
+      "claps": null,
+      "responses": null,
+      "reading_time": null,
+      "tags": [
+        "genai",
+        "ai-decisions",
+        "llm",
+        "ai-agent",
+        "mcp-server"
+      ],
+      "feed_count": 2,
+      "preview": "The Rise of Self-Evolving AI Systems \u2699\ufe0fContinue reading on Write A Catalyst \u00bb"
+    },
+    {
+      "title": "At Amazon, I Wrote Emails Differently Depending On Who Was CC'd.",
+      "author": "Eunice",
+      "link": "https://medium.com/activated-thinker/at-amazon-i-wrote-emails-differently-depending-on-who-was-ccd-5d4643b9a371",
+      "pub_date": "2026-04-09T22:00:32+00:00",
+      "claps": 0,
+      "responses": 0,
+      "reading_time": "4 min read",
+      "tags": [
+        "artificial-intelligence",
+        "technology",
+        "software-development",
+        "programming",
+        "data-science"
+      ],
+      "feed_count": 2,
+      "preview": "She could read between lines. She couldn\u2019t read between lines that weren\u2019t there.Continue reading on Activated Thinker \u00bb"
+    },
+    {
+      "title": "Python Usage across The Walt Disney Company",
+      "author": "Daniel I Salazar Work",
+      "link": "https://medium.com/@daniel.i.salazar.work/python-usage-across-the-walt-disney-company-5f9cf8627c21",
+      "pub_date": "2026-04-09T21:28:24+00:00",
+      "claps": 0,
+      "responses": 0,
+      "reading_time": "7 min read",
+      "tags": [
+        "walt-disney-world",
+        "disney",
+        "pixar",
+        "programming",
+        "python"
+      ],
+      "feed_count": 2,
+      "preview": "Continue reading on Medium \u00bb"
     }
   ]
 }
