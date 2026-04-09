@@ -1,0 +1,93 @@
+{
+  "date": "2026-04-09",
+  "days_window": 3,
+  "posts": [
+    {
+      "title": "Entering NoMan\u2019s Land",
+      "author": "adrian cockcroft",
+      "link": "https://adrianco.medium.com/entering-nomans-land-4095c21d9765",
+      "pub_date": "2026-04-09T19:44:27+00:00",
+      "claps": 20,
+      "responses": 0,
+      "reading_time": "2 min read",
+      "tags": [
+        "startup",
+        "artificial-intelligence",
+        "systems-thinking",
+        "programming"
+      ],
+      "feed_count": 2,
+      "preview": "Continue reading on Medium \u00bb"
+    },
+    {
+      "title": "Knowledge graphs in RAG: the missing piece your AI can\u2019t find alone",
+      "author": "Prakash Sharma",
+      "link": "https://trricho.medium.com/knowledge-graphs-in-rag-the-missing-piece-your-ai-cant-find-alone-62f8b7a2b402",
+      "pub_date": "2026-04-09T19:36:36+00:00",
+      "claps": 20,
+      "responses": 0,
+      "reading_time": "8 min read",
+      "tags": [
+        "ai-agent",
+        "artificial-intelligence",
+        "genai",
+        "software-development",
+        "ai"
+      ],
+      "feed_count": 2,
+      "preview": "You built a RAG system. It retrieves documents, feeds them to an LLM, and answers questions. It mostly works.Continue reading on Medium \u00bb"
+    },
+    {
+      "title": "Fine-Tuning Isn\u2019t Always the Answer: A Practical Take on Improving LLMs",
+      "author": "PrajaktaPatil",
+      "link": "https://medium.com/@prajaktapatil328/fine-tuning-isnt-always-the-answer-a-practical-take-on-improving-llms-1181318abbf4",
+      "pub_date": "2026-04-09T19:39:03+00:00",
+      "claps": 0,
+      "responses": 0,
+      "reading_time": "3 min read",
+      "tags": [
+        "llm",
+        "fine-tuning",
+        "prompt-engineering",
+        "artificial-intelligence"
+      ],
+      "feed_count": 3,
+      "preview": "If you\u2019ve worked with Large Language Models (LLMs), you\u2019ve probably had this thought:Continue reading on Medium \u00bb"
+    },
+    {
+      "title": "Managing High-Speed AI Workloads Without Breaking Your Architecture",
+      "author": "George Witt",
+      "link": "https://medium.com/codetodeploy/managing-high-speed-ai-workloads-without-breaking-your-architecture-48f7ff90c1ea",
+      "pub_date": "2026-04-09T19:46:57+00:00",
+      "claps": 0,
+      "responses": 0,
+      "reading_time": "3 min read",
+      "tags": [
+        "software-development",
+        "artificial-intelligence",
+        "ai",
+        "software-engineering",
+        "llm"
+      ],
+      "feed_count": 2,
+      "preview": "Architecting for Low Latency, Real-Time Inference, and Sustainable AI Integration in a Post-LLM WorldContinue reading on CodeToDeploy \u00bb"
+    },
+    {
+      "title": "Securing Intent : The Next Frontier in AI Agent Protection",
+      "author": "Justin Albrethsen",
+      "link": "https://medium.com/highflame/securing-intent-the-next-frontier-in-ai-agent-protection-00106ce53c88",
+      "pub_date": "2026-04-09T19:45:13+00:00",
+      "claps": 0,
+      "responses": 0,
+      "reading_time": "5 min read",
+      "tags": [
+        "security",
+        "llm",
+        "ai-agent",
+        "ai"
+      ],
+      "feed_count": 2,
+      "preview": "Why Agent Loops Need Stateful Protection, and How DeepContext Makes It PracticalContinue reading on Highflame \u00bb"
+    }
+  ]
+}
