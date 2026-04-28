@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-28",
+  "days_window": 3,
+  "posts": [
+    {
+      "title": "The AI Boss Is Here. It Still Can\u2019t Boil an Egg.",
+      "author": "Zoom In AI",
+      "link": "https://medium.com/write-a-catalyst/the-ai-boss-is-here-it-still-cant-boil-an-egg-94549bff7266",
+      "pub_date": "2026-04-28T05:29:10+00:00",
+      "claps": null,
+      "responses": null,
+      "reading_time": null,
+      "tags": [
+        "startup",
+        "future-of-work",
+        "technology",
+        "artificial-intelligence",
+        "ai-agent"
+      ],
+      "feed_count": 2,
+      "preview": "AI agents are already hiring workers, signing contracts, monitoring employees, and running stores. The management layer has arrived before\u2026Continue reading on Write A Catalyst \u00bb"
+    },
+    {
+      "title": "Best Practices for LLM Judges",
+      "author": "lzhangstat",
+      "link": "https://lzhangstat.medium.com/best-practices-for-llm-judges-a222aeff2a51",
+      "pub_date": "2026-04-28T05:26:27+00:00",
+      "claps": null,
+      "responses": null,
+      "reading_time": null,
+      "tags": [
+        "llm",
+        "artificial-intelligence",
+        "nlp",
+        "machine-learning"
+      ],
+      "feed_count": 2,
+      "preview": "Using a Large Language Model (LLM) as a judge is a powerful technique for evaluating outputs \u2014 especially in tasks like summarization\u2026Continue reading on Medium \u00bb"
+    },
+    {
+      "title": "A Deep Architecture Review of Claude Code: 5 Critical Gaps That Reveal the Future of Agentic AI",
+      "author": "Yi Zhou",
+      "link": "https://medium.com/generative-ai-revolution-ai-native-transformation/a-deep-architecture-review-of-claude-code-5-critical-gaps-that-reveal-the-future-of-agentic-ai-a508532c9b1a",
+      "pub_date": "2026-04-28T05:18:52+00:00",
+      "claps": null,
+      "responses": null,
+      "reading_time": null,
+      "tags": [
+        "agentic-ai",
+        "software-engineering",
+        "ai-agent",
+        "claude-code",
+        "ai"
+      ],
+      "feed_count": 2,
+      "preview": "Claude Code architecture review reveals 5 agentic AI gaps: runtime governance, trust, context integrity, QA & human capability.Continue reading on Agentic AI & GenAI Revolution \u00bb"
+    },
+    {
+      "title": "Why I\u2019m Adding Tool Use to LeboAI (my J.A.R.V.I.S)",
+      "author": "Lebohang Makateng",
+      "link": "https://medium.com/@lebohangdev/why-im-adding-tool-use-to-leboai-my-j-a-r-v-i-s-d81b585eb178",
+      "pub_date": "2026-04-28T05:15:37+00:00",
+      "claps": null,
+      "responses": null,
+      "reading_time": null,
+      "tags": [
+        "agentic-ai",
+        "software-development",
+        "ai-agent",
+        "claude",
+        "software-engineering"
+      ],
+      "feed_count": 2,
+      "preview": "Tool use solved a core problem I had with LeboAI. Instead of my AI assistant just generating text, it can now pause, grab data from my\u2026Continue reading on Medium \u00bb"
+    },
+    {
+      "title": "10 Functional Data Processing Techniques Every Data Analyst Must Deploy In Production",
+      "author": "Rohan Dutt",
+      "link": "https://medium.com/@Rohan_Dutt/10-functional-data-processing-techniques-every-data-analyst-must-deploy-in-production-1e1b70ec3eb7",
+      "pub_date": "2026-04-28T05:15:21+00:00",
+      "claps": null,
+      "responses": null,
+      "reading_time": null,
+      "tags": [
+        "data-engineering",
+        "data-science",
+        "sql",
+        "python",
+        "programming"
+      ],
+      "feed_count": 2,
+      "preview": "Functional programming patterns that make data transformations predictable, testable, and production-readyContinue reading on Medium \u00bb"
+    }
+  ]
+}
